@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = "jpmobile-ipaddresses"
-  s.version = "0.0.2"
+  s.version = "0.0.2.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Shin-ichiro OGAWA"]
@@ -31,7 +31,7 @@ Gem::Specification.new do |s|
   ]
   s.homepage = "http://github.com/jpmobile/jpmobile-ipaddresses"
   s.require_paths = ["lib"]
-  s.rubygems_version = "1.8.16"
+  s.rubygems_version = "1.8.10"
   s.summary = "Carrier IP Address List for jpmobile"
 
   if s.respond_to? :specification_version then
